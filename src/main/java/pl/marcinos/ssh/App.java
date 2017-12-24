@@ -20,7 +20,7 @@ public class App
     	String password = "screencast";
     	
     	
-    	System.out.println("hahaha");
+    	System.out.println("To jest nowy ficzer");
     	String cmd = "pwd && ls -la";
     	
     	try {
