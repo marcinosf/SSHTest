@@ -17,7 +17,7 @@ public class App
     	JSch ssh = new JSch();
     	String host = "0.0.0.0";
     	String user = "root";
-    	String password = "screencast";
+    	String password = 
     	
     	
     	System.out.println("To jest nowy ficzer");
