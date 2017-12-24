@@ -19,6 +19,8 @@ public class App
     	String user = "root";
     	String password = "screencast";
     	
+    	
+    	System.out.println("hahaha");
     	String cmd = "pwd && ls -la";
     	
     	try {
